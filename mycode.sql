@@ -1,3 +1,4 @@
+add a dev comment 3
 add a dev comment 1
 DO CONSISTENCY CHECKS WHERE VERSION NUMBER = 6
 INSERT
